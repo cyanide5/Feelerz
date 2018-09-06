@@ -5,8 +5,8 @@ A twitter analytics application that allows you to interface with the twitter ap
 In order to run this application you will need a twitter developer account 
 
 # Modules
-tweepy <br>
-textBlob
+pip install tweepy <br>
+pip install textBlob
 
 # Author
 Joey Flowers
